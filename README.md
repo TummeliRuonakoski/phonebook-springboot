@@ -19,15 +19,15 @@ Whit this simple Java Springboot rest program you can create, read, update and d
 4. Open Postman or h2-database and test
 ## Postman
 ### create person
-!(.../images/createPerson.png)
+![](phonebook/src/resources/images/createPerson.png)
 ### get person
-!(.../images/getPerson.png)
+![](phonebook/src/resources/images/getPerson.png)
 ### get all
-!(.../images/createAll.png)
+![](phonebook/src/resources/images/createAll.png)
 ### update person
-!(.../images/updatePerson.png)
+![](phonebook/src/resources/images/updatePerson.png)
 ### detele person
-!(.../images/deletePerson.png)
+![](phonebook/src/resources/images/deletePerson.png)
 
 
 ## H2 database
