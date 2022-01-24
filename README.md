@@ -31,6 +31,6 @@ Whit this simple Java Springboot rest program you can create, read, update and d
 
 ## H2 database
 1. Go `localhost:8080/h2-console`
-2. User name is `sa` and password is empty
+2. User name is `sa` and leave the password empty
 
 ![](phonebook/src/main/resources/images/h2-console.png)
